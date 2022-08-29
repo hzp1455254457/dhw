@@ -1,0 +1,6 @@
+
+<linker>
+  <assembly fullname="DOTween" preserve="all" />
+  <assembly fullname="LitJson" preserve="all" />
+  <assembly fullname="Assembly-CSharp" preserve="all" />
+</linker>

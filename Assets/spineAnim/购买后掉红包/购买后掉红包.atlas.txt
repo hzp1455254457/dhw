@@ -1,0 +1,7 @@
+购买后掉红包.png
+size:111,136
+filter:Linear,Linear
+pma:true
+红包样式-1 (3)
+bounds:2,2,107,132
+offsets:0,0,108,132

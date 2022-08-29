@@ -1,0 +1,14 @@
+收音机.png
+size:273,128
+filter:Linear,Linear
+pma:true
+提示icon
+bounds:131,13,44,46
+rotate:90
+收款icon
+bounds:2,2,124,127
+offsets:0,0,124,128
+rotate:90
+点我收钱提示
+bounds:131,59,140,67
+offsets:0,1,140,68

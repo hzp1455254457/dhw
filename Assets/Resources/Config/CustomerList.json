@@ -1,0 +1,12 @@
+[
+    {
+        "map_id": 1,
+        "custom_id": 1,
+        "custom_need_click": 2
+    },
+    {
+        "map_id": 1,
+        "custom_id": 2,
+        "custom_need_click": 4
+    }
+]

@@ -1,0 +1,236 @@
+[
+        {
+            "item_id": 1,
+            "item_name": "长袖衣服",
+            "item_pic": "cxyf",
+            "shop_id": 1
+        },
+        {
+            "item_id": 2,
+            "item_name": "连衣裙",
+            "item_pic": "lyq",
+            "shop_id": 1
+        },
+        {
+            "item_id": 3,
+            "item_name": "风衣外套",
+            "item_pic": "fywt",
+            "shop_id": 1
+        },
+        {
+            "item_id": 4,
+            "item_name": "长裤",
+            "item_pic": "ck",
+            "shop_id": 1
+        },
+        {
+            "item_id": 5,
+            "item_name": "空调",
+            "item_pic": "kt",
+            "shop_id": 2
+        },
+        {
+            "item_id": 6,
+            "item_name": "收音机",
+            "item_pic": "syj",
+            "shop_id": 2
+        },
+        {
+            "item_id": 7,
+            "item_name": "电脑",
+            "item_pic": "dn",
+            "shop_id": 2
+        },
+        {
+            "item_id": 8,
+            "item_name": "投影仪",
+            "item_pic": "tyy",
+            "shop_id": 2
+        },
+        {
+            "item_id": 9,
+            "item_name": "薯片",
+            "item_pic": "sp",
+            "shop_id": 3
+        },
+        {
+            "item_id": 10,
+            "item_name": "香辣鸡腿",
+            "item_pic": "xljt",
+            "shop_id": 3
+        },
+        {
+            "item_id": 11,
+            "item_name": "寿司",
+            "item_pic": "ssi",
+            "shop_id": 3
+        },
+        {
+            "item_id": 12,
+            "item_name": "玩具熊",
+            "item_pic": "bear",
+            "shop_id": 4
+        },
+        {
+            "item_id": 13,
+            "item_name": "玩具人偶",
+            "item_pic": "wjjqr",
+            "shop_id": 4
+        },
+        {
+            "item_id": 14,
+            "item_name": "篮球",
+            "item_pic": "lq",
+            "shop_id": 4
+        },
+        {
+            "item_id": 15,
+            "item_name": "玩偶",
+            "item_pic": "wjm",
+            "shop_id": 4
+        },
+        {
+            "item_id": 16,
+            "item_name": "车厘子",
+            "item_pic": "clz",
+            "shop_id": 5
+        },
+        {
+            "item_id": 17,
+            "item_name": "苹果",
+            "item_pic": "pg",
+            "shop_id": 5
+        },
+        {
+            "item_id": 18,
+            "item_name": "榴莲",
+            "item_pic": "lliian",
+            "shop_id": 5
+        },
+        {
+            "item_id": 19,
+            "item_name": "苹果手机",
+            "item_pic": "pgsj",
+            "shop_id": 6
+        },
+        {
+            "item_id": 20,
+            "item_name": "手机壳",
+            "item_pic": "sjk",
+            "shop_id": 6
+        },
+        {
+            "item_id": 21,
+            "item_name": "智能手机",
+            "item_pic": "znsj",
+            "shop_id": 6
+        },
+        {
+            "item_id": 22,
+            "item_name": "瑞士卷",
+            "item_pic": "rsj",
+            "shop_id": 7
+        },
+        {
+            "item_id": 23,
+            "item_name": "蛋糕",
+            "item_pic": "dg",
+            "shop_id": 7
+        },
+        {
+            "item_id": 24,
+            "item_name": "华夫饼",
+            "item_pic": "hfb",
+            "shop_id": 7
+        },
+        {
+            "item_id": 25,
+            "item_name": "三明治",
+            "item_pic": "smz",
+            "shop_id": 7
+        },
+        {
+            "item_id": 26,
+            "item_name": "水晶项链",
+            "item_pic": "sjxl",
+            "shop_id": 8
+        },
+        {
+            "item_id": 27,
+            "item_name": "钻石",
+            "item_pic": "zs",
+            "shop_id": 8
+        },
+        {
+            "item_id": 28,
+            "item_name": "剪刀",
+            "item_pic": "jd",
+            "shop_id": 8
+        },
+        {
+            "item_id": 29,
+            "item_name": "小猪存钱罐",
+            "item_pic": "xzcqg",
+            "shop_id": 8
+        },
+        {
+            "item_id": 30,
+            "item_name": "煲仔饭",
+            "item_pic": "bzf",
+            "shop_id": 9
+        },
+        {
+            "item_id": 31,
+            "item_name": "烧腊饭",
+            "item_pic": "slf",
+            "shop_id": 9
+        },
+        {
+            "item_id": 32,
+            "item_name": "大锅烩",
+            "item_pic": "dgh",
+            "shop_id": 9
+        },
+        {
+            "item_id": 33,
+            "item_name": "珍珠奶茶",
+            "item_pic": "zznc",
+            "shop_id": 10
+        },
+        {
+            "item_id": 34,
+            "item_name": "抹茶奶茶",
+            "item_pic": "mc",
+            "shop_id": 10
+        },
+        {
+            "item_id": 35,
+            "item_name": "巧克力奶茶",
+            "item_pic": "qklnc",
+            "shop_id": 10
+        },
+        {
+            "item_id": 36,
+            "item_name": "篮球鞋",
+            "item_pic": "lqx",
+            "shop_id": 11
+        },
+        {
+            "item_id": 37,
+            "item_name": "板鞋",
+            "item_pic": "bx",
+            "shop_id": 11
+        },
+        {
+            "item_id": 38,
+            "item_name": "登山鞋",
+            "item_pic": "dsx",
+            "shop_id": 11
+        },
+        {
+            "item_id": 39,
+            "item_name": "足球鞋",
+            "item_pic": "zqx",
+            "shop_id": 11
+        }
+    ]

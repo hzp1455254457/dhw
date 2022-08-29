@@ -1,0 +1,112 @@
+[
+        {
+            "map_id": 1,
+            "shop_id": 1,
+            "shop_name": "服饰店",
+            "shop_pic": "fzd",
+            "isunlock_initstate": 1,
+            "unlock_time": 0,
+            "unlock_money": 0,
+            "in_map_location": 1
+        },
+        {
+            "map_id": 1,
+            "shop_id": 2,
+            "shop_name": "电器店",
+            "shop_pic": "dqd",
+            "isunlock_initstate": 1,
+            "unlock_time": 0,
+            "unlock_money": 0,
+            "in_map_location": 1
+        },
+        {
+            "map_id": 1,
+            "shop_id": 3,
+            "shop_name": "零食摊",
+            "shop_pic": "spd",
+            "isunlock_initstate": 1,
+            "unlock_time": 0,
+            "unlock_money": 0,
+            "in_map_location": 0
+        },
+        {
+            "map_id": 1,
+            "shop_id": 4,
+            "shop_name": "玩具摊",
+            "shop_pic": "dwd",
+            "isunlock_initstate": 0,
+            "unlock_time": 10,
+            "unlock_money": 20,
+            "in_map_location": 0
+        },
+        {
+            "map_id": 1,
+            "shop_id": 5,
+            "shop_name": "水果摊",
+            "shop_pic": "sgd",
+            "isunlock_initstate": 0,
+            "unlock_time": 10,
+            "unlock_money": 20,
+            "in_map_location": 0
+        },
+        {
+            "map_id": 1,
+            "shop_id": 6,
+            "shop_name": "手机摊",
+            "shop_pic": "sjd",
+            "isunlock_initstate": 0,
+            "unlock_time": 10,
+            "unlock_money": 20,
+            "in_map_location": 0
+        },
+        {
+            "map_id": 1,
+            "shop_id": 7,
+            "shop_name": "小吃摊",
+            "shop_pic": "hls",
+            "isunlock_initstate": 0,
+            "unlock_time": 10,
+            "unlock_money": 20,
+            "in_map_location": 0
+        },
+        {
+            "map_id": 1,
+            "shop_id": 8,
+            "shop_name": "精品店",
+            "shop_pic": "hbw",
+            "isunlock_initstate": 0,
+            "unlock_time": 10,
+            "unlock_money": 20,
+            "in_map_location": 1
+        },
+        {
+            "map_id": 1,
+            "shop_id": 9,
+            "shop_name": "大饭店",
+            "shop_pic": "dfd",
+            "isunlock_initstate": 0,
+            "unlock_time": 20,
+            "unlock_money": 40,
+            "in_map_location": 1
+        },
+        {
+            "map_id": 1,
+            "shop_id": 10,
+            "shop_name": "奶茶摊",
+            "shop_pic": "ncd",
+            "isunlock_initstate": 0,
+            "unlock_time": 25,
+            "unlock_money": 40,
+            "in_map_location": 0
+        },
+        {
+            "map_id": 1,
+            "shop_id": 11,
+            "shop_name": "鞋店",
+            "shop_pic": "xd",
+            "isunlock_initstate": 0,
+            "unlock_time": 40,
+            "unlock_money": 60,
+            "in_map_location": 1
+        }
+    ]

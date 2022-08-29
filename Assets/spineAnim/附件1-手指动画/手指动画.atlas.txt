@@ -1,0 +1,10 @@
+手指动画.png
+size:382,188
+filter:Linear,Linear
+pma:true
+光圈
+bounds:196,2,184,184
+offsets:34,122,340,340
+手指
+bounds:2,6,180,192
+rotate:90
